@@ -118,9 +118,18 @@ This dashboard brings the answers to your fingertips in a visual, filterable, an
 
 ##  Screenshots
 
-### Home Page
+### Orders Page
+
+![Screenshot 2025-06-19 225749](https://github.com/user-attachments/assets/7ba7141f-e294-4bde-9531-fa00d9523587)
+
+### Product Page
+
+![Screenshot 2025-06-19 225808](https://github.com/user-attachments/assets/fb61af8f-b67c-4a28-b4a2-4cbc947109b2)
 
 
+### Customer Page
+
+![Screenshot 2025-06-19 225826](https://github.com/user-attachments/assets/93bf1e4e-46b9-43d8-aa46-ff894c6cd7f9)
 
 
 ---
