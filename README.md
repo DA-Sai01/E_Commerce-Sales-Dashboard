@@ -116,13 +116,12 @@ This dashboard brings the answers to your fingertips in a visual, filterable, an
 
 ---
 
-## 📷 Screenshots
+##  Screenshots
 
-*(Feel free to replace with your actual dashboard images)*
+### Home Page
 
-- Orders Performance & Payment Mode
-- Product KPIs & Return Analysis
-- Age vs Gender Trends
+
+
 
 ---
 
