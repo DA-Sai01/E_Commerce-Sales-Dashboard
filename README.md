@@ -1,4 +1,4 @@
-# 📊 Power BI E-Commerce Sales Analytics Dashboard 
+# Power BI E-Commerce Sales Analytics Dashboard 
 
 This project presents an end-to-end interactive dashboard built using Power BI to analyze the performance of a fictional e-commerce business over a span of 3 years (2023–2025). The dataset contains over **30,000 transactions** and includes customer, product, sales, return, and operational details.
 
@@ -134,7 +134,7 @@ This dashboard brings the answers to your fingertips in a visual, filterable, an
 
 ---
 
-## 🙋 About Me
+##  About Me :)
 
 I'm passionate about turning raw data into clean, insightful dashboards that empower better business decisions. This project gave me the opportunity to bring together data modeling, analytical thinking, and UX-focused design to create something truly useful.
 
