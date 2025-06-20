@@ -40,7 +40,6 @@ Helps assess product-level performance and profitability:
 - Top products by sales, quantity, and ratings
 - **Return rate** by category
 - Profit and margin calculations
-- Stock status distribution (In-Stock vs Out-of-Stock)
 
 ###  Customer Page
 Visualizes who the customers are and how they behave:
